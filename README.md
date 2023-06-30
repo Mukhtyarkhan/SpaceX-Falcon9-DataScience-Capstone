@@ -9,13 +9,13 @@ The project aimed to address a crucial question related to SpaceX rocket launche
 ## Methodology
 To tackle this problem, the following methodology was employed:\n
 
-Data collection from the Spacexdata API and Wikipedia web scraping.
-Data wrangling and preparation.
-Exploratory data analysis (EDA) utilizing visualization techniques and SQL.
-Interactive visual analytics using tools such as Folium and Plotly Dash.
-Predictive analysis employing classification models.
-Key Findings
-Through the project, several significant findings were uncovered:
+1. Data collection from the Spacexdata API and Wikipedia web scraping.
+2. Data wrangling and preparation.
+3. Exploratory data analysis (EDA) utilizing visualization techniques and SQL.
+4. Interactive visual analytics using tools such as Folium and Plotly Dash.
+5. Predictive analysis employing classification models.
+## Key Findings
+Through the project, several significant findings were uncovered:\n
 
 The success rate of the Falcon 9 first stage landing improves with a larger flight number and a lower payload mass at launch sites.
 The overall success rate of rocket launches exhibits a positive trend between 2013 and 2020, with a minor negative trend observed in 2017-2018.
